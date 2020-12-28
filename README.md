@@ -31,7 +31,9 @@ git push
 
 [Module 3 - Twitter app](https://github.com/CodersInHoods/twitter-london-pt-fs-070920)
 
-[Module 4 Project - StockMarket](https://github.com/CodersInHoods/stock-tader-project-london-pt-fs-070920)
+[Module 4 - StockMarket](https://github.com/CodersInHoods/stock-tader-project-london-pt-fs-070920)
+
+[Module 5 - Recipes book](https://github.com/CodersInHoods/react-recipes-book-london-pt-fs-070920)
 
 ## Slides
 
@@ -66,3 +68,5 @@ git push
 - [M4L6 - Server Side rendering](https://docs.google.com/presentation/d/17cgiWTrW8W5dhJdHcW8LdTVsqcTDBp5bMfDbfuy7awA/edit?usp=sharing)
 - [M4L7 - Serverless](https://docs.google.com/presentation/d/1VaSyKXB-i9Ck9c6JHkBBPOPotDea-0qta3SUgdiIWQI/edit?usp=sharing)
 - [M4L8 - Socket.io](https://docs.google.com/presentation/d/1M7dNZdE05iHt6ObjBcF2WsLH8XJue4bO497pLgONac4/edit?usp=sharing)
+- [M5L1 - JS Frameworks](https://docs.google.com/presentation/d/1UqyBirzdhAyi21RD3z4gNkwd-D9WS1PuvgoDoTYKXaw/edit?usp=sharing)
+- [M5L2 - React State](https://docs.google.com/presentation/d/1pdXYaNj4z1IygN4G-ENtMnMHjbwwJSA_gx97PcQpArM/edit?usp=sharing)
