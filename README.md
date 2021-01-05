@@ -70,3 +70,5 @@ git push
 - [M4L8 - Socket.io](https://docs.google.com/presentation/d/1M7dNZdE05iHt6ObjBcF2WsLH8XJue4bO497pLgONac4/edit?usp=sharing)
 - [M5L1 - JS Frameworks](https://docs.google.com/presentation/d/1UqyBirzdhAyi21RD3z4gNkwd-D9WS1PuvgoDoTYKXaw/edit?usp=sharing)
 - [M5L2 - React State](https://docs.google.com/presentation/d/1pdXYaNj4z1IygN4G-ENtMnMHjbwwJSA_gx97PcQpArM/edit?usp=sharing)
+- [M5L3 - React props](https://docs.google.com/presentation/d/1IuKVaWnCrQgeBcn0ImyYZxSMsiXitPCQhN4JQr-mfYI/edit?usp=sharing)
+- [M5L4 - State&Props Code along](https://docs.google.com/presentation/d/1dacyYVsjl4Tc0VF5dvCBpiHd3RSVFn4tFoMa9vU32gU/edit?usp=sharing)
