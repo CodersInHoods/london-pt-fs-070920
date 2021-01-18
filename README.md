@@ -74,3 +74,5 @@ git push
 - [M5L4 - State&Props Code along](https://docs.google.com/presentation/d/1dacyYVsjl4Tc0VF5dvCBpiHd3RSVFn4tFoMa9vU32gU/edit?usp=sharing)
 - [M5L5 - React hooks](https://docs.google.com/presentation/d/1s_psfndFNw1IgVI1kSnkLu_Zel3OgYLpyZAzbYOggsw/edit?usp=sharing)
 - [M5L6 - React Router](https://docs.google.com/presentation/d/1aFSSIHIoAtW3E5h7JH4xfC_2ntt-VBU7mKdp6gb3DRM/edit?usp=sharing)
+- [M5L7 - Redux](https://docs.google.com/presentation/d/1YeeMSYMNFA-8xJ1BBNx3Knqa5rgHFKRh9PLCkkFqRvg/edit?usp=sharing)
+- [M5L8 - React redux](https://docs.google.com/presentation/d/1cqotCJYZBrIZhGn-e9WvDBlH_ZTljj3bMnPJDRdcT-g/edit?usp=sharing)
